@@ -1,0 +1,28 @@
+.test_image_and_result {
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0.336);
+  padding:20px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 38px lightgrey;
+  height: 310px;
+  color:rgba(233, 233, 233, 0.741);
+}
+
+.test_image_and_result h5 {
+  color:black;
+}
+
+h5 {
+  background-color: lightgray;
+  padding:10px;
+  border-radius: 20px;
+}
+
+.mini_result {
+  width: 200%;
+}
+
+img {
+  border-radius: 20px;
+  margin-top:10px;
+}
